@@ -125,7 +125,7 @@ const Header = () => {
                      </li>
                       <li>
                       <Link
-                      to='/about'
+                      to='/sector'
                       className='font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-blue-400'
                     >
                     Sectors
@@ -145,7 +145,7 @@ const Header = () => {
 
                       <li>
                       <Link
-                        to='/about'
+                        to='/signup'
                         className='font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-blue-400'
                       >
                       Signup
